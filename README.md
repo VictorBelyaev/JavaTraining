@@ -1,4 +1,0 @@
-JavaTraining
-============
-
-JavaTraining
